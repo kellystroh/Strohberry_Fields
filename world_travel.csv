@@ -1,0 +1,100 @@
+,city,country,iso,lat,long,text,reason
+0,Carcross,Yukon,CAN,60.1676,-134.7074,"Carcross, Yukon",Adventure
+1,Skagway,AK,USA,59.4554,-135.3153,"Skagway, AK",Adventure
+2,Ketchikan,AK,USA,55.3422,-131.6461,"Ketchikan, AK",Adventure
+3,Juneau,AK,USA,58.3019,-134.4197,"Juneau, AK",Adventure
+4,Hanover,NH,USA,43.7022,-72.2896,"Hanover, NH",Studies
+5,Albuquerque,NM ,USA,35.0844,-106.6504,"Albuquerque, NM ",Adventure
+6,Chicago,IL,USA,41.811929,-87.68732,"Chicago, IL",Adventure
+7,Victoria,BC,CAN,48.4284,-123.3656,"Victoria, BC",Adventure
+8,Vancouver,BC,CAN,49.2827,-123.1207,"Vancouver, BC",Adventure
+9,Squamish,BC,CAN,49.7016,-123.1558,"Squamish, BC",Adventure
+10,Whistler,BC,CAN,50.1163,-122.9574,"Whistler, BC",Adventure
+11,Arenal,Costa Rica,CRI,10.4389,-84.711456,"Arenal, Costa Rica",Studies
+12,Atenas,Costa Rica,CRI,9.975317,-84.38324,"Atenas, Costa Rica",Studies
+13,San Jose,Costa Rica,CRI,9.924974,-84.092102,"San Jose, Costa Rica",Studies
+14,Panama City,Panama,PAN,8.960452,-79.552002,"Panama City, Panama",Adventure
+15,Bogota,Colombia,COL,4.584981,-74.080811,"Bogota, Colombia",Friends
+16,Santa Marta,Colombia,COL,11.208376,-74.256592,"Santa Marta, Colombia",Adventure
+17,Reykjavik,Iceland,ISL,64.163918,-21.928711,"Reykjavik, Iceland",Adventure
+18,London,UK,GBR,51.486728,-0.153809,"London, England",Adventure
+19,Edinburgh,UK,GBR,55.929394,-3.186035,"Edinburgh, Scotland",Studies
+20,Glasgow,UK,GBR,55.843133,-4.284668,"Glasgow, Scotland",Friends
+21,Oban,UK,GBR,56.41053,-5.4547120,"Oban, Scotland",Friends
+22,Mull,UK,GBR,56.434835,-5.888672,"Mull, Scotland",Adventure
+23,Iona,UK,GBR,56.329018,-6.405716,"Iona, Scotland",Adventure
+24,St Andrews,UK,GBR,56.334645,-2.8028870,"St Andrews, Scotland",Adventure
+25,Sterling,UK,GBR,56.113596,-3.955078,"Sterling, Scotland",Adventure
+26,Bristol,UK,GBR,51.487476,-2.642212,"Bristol, England",Friends
+27,Newcastle,UK,GBR,54.963622,-1.61499,"Newcastle, UK",Adventure
+28,LLantilio Cresseny,UK,GBR,51.823803,-2.851639,"LLantilio Crossenny, Wales",Friends
+29,Calais,France,FRA,50.929223,1.889648,"Calais, France",Friends
+30,Paris,France,FRA,48.887295,2.416992,"Paris, France",Friends
+31,Berlin,Germany,DEU,52.42336,13.40332,"Berlin, Germany",Friends
+32,Hannover,Germany,DEU,52.345827,9.667969,"Hannover, Germany",Friends
+33,Milan,Italy,ITA,45.450738,9.18457,"Milan, Italy",Friends
+34,Riomaggiore,Italy,ITA,44.126812,9.706421,"Riomaggiore, Italy",Friends
+35,Tellaro,Italy,ITA,44.062100,9.928200,"Tellaro, Italy",Friends
+36,Cozumel,Mexico,MEX,20.423000,-86.922300,"Cozumel, Mexico",Adventure
+37,Lugano,Switzerland,CHE,"46.003535,",8.951797,"Lugano, Switzerland",Friends
+38,Bern,Switzerland,CHE,46.949442,7.465210,"Bern, Switzerland",Friends
+39,Basel,Switzerland,CHE,47.542353,7.591553,"Basel, Switzerland",Adventure
+40,Zurich,Switzerland,CHE,47.352082,8.536377,"Zurich, Switzerland",Friends
+41,Istanbul,Turkey,TUR,41.105226,28.87207,"Istanbul, Turkey",Friends
+42,Kappadokia,Turkey,TUR,38.640388,34.846306,"Kappadokia, Turkey",Adventure
+43,Igdir,Turkey,TUR,39.832005,43.989258,"Igdir, Turkey",Friends
+44,Batumi,Georgia,GEO,42.120891,41.64917,"Batumi, Georgia",Adventure
+45,Tbilisi,Georgia ,GEO,41.66291,44.802246,"Tbilisi, Georgia ",Adventure
+46,Santiago,Chile,CHL,-33.586023,-70.708008,"Santiago, Chile",Studies
+47,Vicuna,Chile,CHL,-30.041087,-70.704784,"Vicuna, Chile",Adventure
+48,La Serena,Chile,CHL,-29.917373,-71.262097,"La Serena, Chile",Adventure
+49,Pisco Elqui,Chile,CHL,-30.125298,-70.493377,"Pisco Elqui, Chile",Adventure
+50,Puerto Mont,Chile,CHL,-33.479277,-70.653076,"Puerto Mont, Chile",Adventure
+51,Puerto Natales,Chile,CHL,-51.720967,-72.487793,"Puerto Natales, Chile",Adventure
+52,Valparaiso,Chile,CHL,-33.047522,-71.641846,"Valparaiso, Chile",Adventure
+53,Torres del Paine,Chile,CHL,-51.031787,-73.037109,"Torres del Paine, Chile",Adventure
+54,El Chalten,Argentina,ARG,-49.335876,-72.88192,"El Chalten, Argentina",Adventure
+55,Buenos Aires,Argentina,ARG,-34.603683,-58.381557,"Buenos Aires, Argentina",Adventure
+56,Puerto Iguazu,Argentina,ARG,-25.612564,-54.569778,"Puerto Iguazu, Argentina",Adventure
+57,Montevideo,Uruguay,URY,-34.925912,-56.206055,"Montevideo, Uruguay",Adventure
+58,Colonia del Sacramento,Uruguay,URY,-34.475854,-57.826538,Colonia del Sacramento,Adventure
+59,Lima,Peru,PER,-12.315853,-76.992188,"Lima, Peru",Adventure
+60,Cuzco,Peru,PER,-13.287397,-71.894531,"Cuzco, Peru",Adventure
+61,Arequipa,Peru,PER,-16.366921,-71.542969,"Arequipa, Peru",Adventure
+62,Pisco,Peru,PER,-13.757393,-76.26709,"Pisco, Peru",Adventure
+63,Iquitos,Peru,PER,-3.755234,-73.2568360,"Iquitos, Peru",Adventure
+64,Seattle,WA,USA,47.6211,-122.3244,"Seattle, WA",Home
+65,Spokane,WA,USA,47.6671,-117.433,"Spokane, WA",Studies
+66,Tacoma,WA,USA,47.2431,-122.4531,"Tacoma, WA",Home
+67,Bremerton,WA,USA,47.5436,-122.7121,"Bremerton, WA",Home
+68,Walla Walla,WA,USA,46.0669,-118.3365,"Walla Walla, WA",Friends
+69,Portland,OR,USA,45.5371,-122.65,"Portland, OR",Friends
+70,Eugene,OR,USA,44.0563,-123.1173,"Eugene, OR",Friends
+71,Los Angeles,CA,USA,34.1139,-118.4068,"Los Angeles, CA",Family
+72,San Diego,CA,USA,32.8312,-117.1225,"San Diego, CA",Adventure
+73,San Francisco,CA,USA,37.7562,-122.443,"San Francisco, CA",Studies
+74,Boston,MA,USA,42.3188,-71.0846,"Boston, MA",Studies
+75,New York,NY,USA,40.6943,-73.9249,"New York, NY",Friends
+76,Washington,DC,USA,38.9047,-77.0163,"Washington, DC",Studies
+77,Gettysburg,PA,USA,39.8304,-77.2339,"Gettysburg, PA",Adventure
+78,Dallas,TX,USA,32.7936,-96.7662,"Dallas, TX",Studies
+79,Houston,TX,USA,29.7869,-95.3905,"Houston, TX",Studies
+80,Austin,TX,USA,30.3006,-97.7517,"Austin, TX",Studies
+81,Indianapolis,IN,USA,39.7771,-86.1458,"Indianapolis, IN",Family
+82,Syracuse,IN,USA,41.4226,-85.7492,"Syracuse, IN",Family
+83,Fort Wayne,IN,USA,41.0885,-85.1436,"Fort Wayne, IN",Family
+84,Lansing,MI,USA,42.7142,-84.5601,"Lansing, MI",Family
+85,Grand Rapids,MI,USA,42.9615,-85.6557,"Grand Rapids, MI",Family
+86,Ann Arbor,MI,USA,42.2755,-83.7312,"Ann Arbor, MI",Friends
+87,Midland,MI,USA,43.6239,-84.2316,"Midland, MI",Family
+88,Traverse City,MI,USA,44.7631,-85.6206,"Traverse City, MI",Family
+89,Rome,GA,USA,34.2662,-85.1862,"Rome, GA",Family
+90,Moscow,ID,USA,46.7307,-116.9986,"Moscow, ID",Friends
+91,Minneapolis,MN,USA,44.9635,-93.2678,"Minneapolis, MN",Studies
+92,New Orleans,LA,USA,30.0687,-89.9288,"New Orleans, LA",Adventure
+93,Cincinnati,OH,USA,39.1412,-84.506,"Cincinnati, OH",Family
+94,Columbus,OH,USA,39.986,-82.9851,"Columbus, OH",Family
+95,Cleveland,OH,USA,41.4767,-81.6805,"Cleveland, OH",Friends
+96,Toledo,OH,USA,41.6639,-83.5822,"Toledo, OH",Friends
+97,Denver,CO,USA,39.7621,-104.8759,"Denver, CO",Adventure
+98,Port Angeles,WA,USA,48.1142,-123.4565,"Port Angeles, WA",Adventure
