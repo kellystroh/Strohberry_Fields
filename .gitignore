@@ -1,4 +1,4 @@
-images/
+static/images/
 .DS_Store
 .ipynb_checkpoints/
 draft/
